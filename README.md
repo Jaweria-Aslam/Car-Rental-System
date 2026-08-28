@@ -51,7 +51,7 @@ The project demonstrates Python programming fundamentals and Object-Oriented Pro
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Jaweria-Aslam/Car-Rental-System
 2. Open the project folder
 cd Car-Rental-System
 3. Run the program
